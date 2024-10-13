@@ -1,0 +1,6 @@
+@shiganshina.server_HostAddress = http://localhost:5056
+
+GET {{shiganshina.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
